@@ -18,8 +18,7 @@ public class hell {
 
     public static void method(){
         System.out.println("hellowWord!!!!");
-        System.out.println("hellowWord!!!!");
-        System.out.println("hellowWord!!!!");
+
 
     }
 }
